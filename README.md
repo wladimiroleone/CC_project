@@ -4,4 +4,4 @@
 Energy range = [50,300] KeV
 
 
-Detectors used = 1 (NaI)
+Detectors used = 10 (NaI)
